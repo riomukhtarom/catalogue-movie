@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+
+    <!-- Menu -->
+    <string name="now_playing">Sekarang</string>
+    <string name="up_coming">Akan Datang</string>
+    <string name="search_movie">Cari Film</string>
+    <string name="settings">Pengaturan</string>
+
+    <string name="title"> Judul </string>
+    <string name="description"> Deskripsi </string>
+    <string name="rating"> Rating</string>
+    <string name="popularity"> Popularity</string>
+    <string name="language"> Bahasa </string>
+    <string name="number"> 10 </string>
+    <string name="en"> EN</string>
+    <string name="release">Rilis</string>
+    <string name="overview">Overview</string>
+    <string name="poster">Poster Film</string>
+    <string name="movie_title">Judul Film</string>
+    <string name="detail_movie">Detail Film</string>
+    <string name="favorite">Favorit</string>
+    <string name="add_to_favorite">Ditambahkan ke Favorit</string>
+    <string name="delete_from_favorite">Dihapus dari Favorit</string>
+    <string name="add_failed">Gagal Menambahkan</string>
+    <string name="delete_failed">Gagal Menghapus</string>
+    <string name="appwidget_text">Tidak Ada</string>
+    <string name="remainder_setting">Pengaturan Pengingat</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="title_activity_remainder_settings">Pengaturan Pengingat</string>
+    <string name="key_daily_remainder">daily_remainder</string>
+    <string name="key_release_remainder">release_remainder</string>
+    <string name="pref_daily_title">Pengigat Harian</string>
+    <string name="pref_release_Title">Pengigat Rilis</string>
+</resources>

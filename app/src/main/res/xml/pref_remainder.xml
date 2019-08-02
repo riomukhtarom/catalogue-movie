@@ -1,0 +1,15 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="@string/key_daily_remainder"
+        android:summary="@string/pref_daily_title"
+        android:title="@string/pref_daily_title" />
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="@string/key_release_remainder"
+        android:summary="@string/pref_release_Title"
+        android:title="@string/pref_release_Title" />
+
+</PreferenceScreen>
